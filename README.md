@@ -1,5 +1,5 @@
 # HR_Attrition_Analytics-LookerStudio_Project
-I worked on an HR Attrition Analytics project using Google Looker Studio. The objective was to analyze employee departures, identify groups with higher attrition rates, and provide insights that could help the HR team improve employee retention.
+I worked on an HR Attrition Analytics project using Google Looker Studio, Google Sheets, and Microsoft Excel. The objective was to analyze employee departures, identify groups with higher attrition rates, and provide insights that could help the HR team improve employee retention.
 
 The dashboard contained 1,470 employee records and 35 columns, of which 237 employees had left, representing an attrition rate of approximately 16.1%.
 

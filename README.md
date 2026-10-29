@@ -1,18 +1,14 @@
 # HR_Attrition_Analytics-LookerStudio_Project
-This project was HR Attrition Analytics using Google Looker Studio.
+I worked on an HR Attrition Analytics project using Google Looker Studio. The objective was to analyze employee departures, identify groups with higher attrition rates, and provide insights that could help the HR team improve employee retention.
 
-The main objective was to analyze employee attrition and understand how employee departures varied across departments, job roles, age groups, income levels, job satisfaction, gender, overtime, and business travel.
+The dashboard contained 1,470 employee records and 35 columns, of which 237 employees had left, representing an attrition rate of approximately 16.1%.
 
-I worked with an HR dataset containing 1,470 employee records and 35 columns. I used Microsoft Excel to review the dataset, Google Sheets to prepare and host the data, and Looker Studio to create interactive dashboards.
+I developed two dashboard pages. The first provided an overview of workforce size, attrition, average monthly income, employee age, department distribution, job roles, gender, and business travel.
 
-I developed two dashboard pages. The first page provided an overview of the workforce through KPI scorecards and charts. The second page focused on advanced attrition analysis using calculated fields, including attrition rate, age groups, income brackets, and satisfaction levels.
+The second page focused on advanced attrition analysis by department, gender, job satisfaction, income bracket, and age group. I also included interactive filters to help users investigate specific employee segments.
 
-One of the main challenges was calculating attrition rates correctly. I needed to compare percentages rather than relying only on the number of employees who left. I also had to create calculated fields and validate the metrics to ensure the dashboard presented consistent results.
+The analysis showed that Sales had the highest department-level attrition rate at 20.63%. It also highlighted higher attrition among younger employees and employees in the lowest income bracket, while lower job satisfaction was associated with higher attrition.
 
-My analysis showed that 237 out of 1,470 employees had left, resulting in an overall attrition rate of 16.12%. I found that Sales had the highest department-level attrition rate at approximately 20.63%, while Research & Development had the highest number of departures, with 133 employees.
+Based on these findings, I recommended investigating career development, compensation, job satisfaction, and working conditions in the employee groups with higher attrition.
 
-The dashboard also showed higher attrition in the lowest income bracket, among younger employees, and among employees with lower job satisfaction. These patterns helped identify areas that HR could investigate further.
-
-Based on these findings, I recommended investigating Sales attrition, reviewing employee satisfaction and compensation, examining overtime and business travel patterns, and improving retention initiatives for groups with higher attrition rates.
-
-This project helped me improve my skills in data preparation, calculated fields, KPI development, interactive dashboard creation, and translating data into business recommendations. It also taught me the importance of validating metrics and distinguishing between correlation and causation.
+This project helped me understand how HR data can be transformed into interactive dashboards and how workforce metrics can support evidence-based retention decisions.

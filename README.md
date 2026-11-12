@@ -1,4 +1,4 @@
-# looker studio Dashboard link: https://datastudio.google.com/s/nu8AgmU33a0
+looker studio Dashboard link: https://datastudio.google.com/s/nu8AgmU33a0
 # HR_Attrition_Analytics-LookerStudio_Project
 # 1. Project Overview
 
